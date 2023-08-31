@@ -32,7 +32,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:9090/v1/carreras/2",
+					"raw": "http://localhost:9090/v1/carreras/1",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -41,7 +41,7 @@
 					"path": [
 						"v1",
 						"carreras",
-						"2"
+						"1"
 					]
 				}
 			},
@@ -92,7 +92,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:9090/v1/carreras/carr/3",
+					"raw": "http://localhost:9090/v1/carreras/carr/1",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -102,7 +102,7 @@
 						"v1",
 						"carreras",
 						"carr",
-						"3"
+						"1"
 					]
 				}
 			},
