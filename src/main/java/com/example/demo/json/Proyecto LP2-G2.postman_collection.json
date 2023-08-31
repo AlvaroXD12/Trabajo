@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "b41d9211-0c49-4576-b017-0e371978a7d2",
-		"name": "Proyecto LP2-G2",
+		"name": "Carrera",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -11,7 +11,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:9090/v1/productos/all",
+					"raw": "http://localhost:9090/v1/carreras/all",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -32,7 +32,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:9090/v1/productos/2",
+					"raw": "http://localhost:9090/v1/carreras/2",
 					"protocol": "http",
 					"host": [
 						"localhost"
